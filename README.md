@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ec577b54-8797-4639-9c2b-f7da419b5819)# Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
+# Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
 ## DATE: 15/04/2025
 
